@@ -6,7 +6,8 @@ Tento projekt je malý nástroj, aktuálně podporovaná verze je:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0   | :white_check_mark: |
+| 1.3   | :white_check_mark: |
+| 1.1   | :white_check_mark: |
 | < 1.0   | :x:                |
 
 > Budoucí aktualizace budou obsahovat opravy bezpečnostních problémů.
